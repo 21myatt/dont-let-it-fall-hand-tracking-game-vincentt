@@ -33,6 +33,19 @@
     "src/Scene.tsx",
     "src/FaceBoundingBox.tsx",
     "src/FooterHud.tsx",
-    "src/HandBoundingBox.tsx"
+    "src/HandBoundingBox.tsx",
+    "src/fall/Balls.tsx",
+    "src/fall/DevMouse.tsx",
+    "src/fall/ExperienceStatus.tsx",
+    "src/fall/Game.tsx",
+    "src/fall/Hud.tsx",
+    "src/fall/config.ts",
+    "src/fall/effects.tsx",
+    "src/fall/hand.ts",
+    "src/fall/materials.ts",
+    "src/fall/oneEuro.ts",
+    "src/fall/rng.ts",
+    "src/fall/sim.test.ts",
+    "src/fall/sim.ts"
   ]
 }

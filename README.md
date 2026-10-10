@@ -1,3 +1,11 @@
+# Don't Let It Fall
+
+One ball, one rule: keep it alive. Bounce a falling blob with your real hand; wind, ball
+variants, bonuses, bombs and juggling arrive as your score climbs. Live at
+https://dont-let-it-fall.vincentt.app.
+
+---
+
 # v2-template
 
 The Vincentt starter app: a real React + R3F + Vincentt XR SDK (`@vincentt-xr/sdk`)
